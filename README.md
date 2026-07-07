@@ -32,8 +32,8 @@
 
 ```html
 <h2>Алексей Иванов</h2>
-<strong>15 лет</strong>
-<strong>Санкт-Петербург</strong>
+<strong>16 лет</strong>
+<strong>Беларусь</strong>
 <strong>alex@example.com</strong>
 <strong>@alex_dev</strong>
 ```
