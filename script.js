@@ -5,12 +5,12 @@
 const projects = [
   {
     title: "Project 1",
-    description: "Краткое описание первого Unity-проекта. Например: 2D-платформер с монетами, врагами и несколькими уровнями.",
-    cover: "assets/project-1-cover.gif",
+    description: "2D-платформер в стиле Geometry Dash.",
+    cover: "https://i.imgur.com/OPHkdFj.gif",
     images: [
-      "assets/project-1-screen-1.png",
-      "assets/project-1-screen-2.png",
-      "assets/project-1-screen-3.png"
+      "https://i.imgur.com/hiTGI6b.jpeg",
+      "https://i.imgur.com/EfznfpP.jpeg",
+      "https://i.imgur.com/V8umTIH.jpeg"
     ]
   },
   {
